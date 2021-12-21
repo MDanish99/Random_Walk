@@ -1,5 +1,5 @@
 # Random_Walk
-I learned the concept of Random Walk in the course SDSC 3001 (Big Data: The Arts and Science of Scaling) taught by Dr.Yu Yang at CityU.
+I learned the concept of Random Walk in the course SDSC 3001 (Big Data: The Arts and Science of Scaling) taught by Dr.Yu Yang at CityU. In the first assignment, we were asked to write a code and stimulate Random Walk on a dataset. A basic overview of the task is as follows:
 
 
 
